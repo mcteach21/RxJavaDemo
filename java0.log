@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-25T12:43:28</date>
+  <millis>1624617808186</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>a</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:28</date>
+  <millis>1624617808444</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>ab</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:28</date>
+  <millis>1624617808645</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abc</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:28</date>
+  <millis>1624617808845</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcd</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809045</millis>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcde</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809045</millis>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>ObservableDemo1</method>
+  <thread>1</thread>
+  <message>result = abcde_Completed</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809123</millis>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>ObservableDemo2</method>
+  <thread>1</thread>
+  <message>result (map) = AEIOUY</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809170</millis>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>ObservableDemo2</method>
+  <thread>1</thread>
+  <message>result (flatmap) = JAVA | KOTLIN | HTML | CSS | JAVASCRIPT | JQUERY | </message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809187</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : </message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809190</millis>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : a</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809190</millis>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : ab</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809191</millis>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : abc</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809191</millis>
+  <sequence>12</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : abcd</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809191</millis>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo2$6</method>
+  <thread>1</thread>
+  <message>StringBuilder - Result (scan) : abcde</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809227</millis>
+  <sequence>14</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$null$10</method>
+  <thread>1</thread>
+  <message>Subscribe (Group) : I =&gt; 53</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809228</millis>
+  <sequence>15</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$null$10</method>
+  <thread>1</thread>
+  <message>Subscribe (Group) : P =&gt; 72</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809228</millis>
+  <sequence>16</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$null$10</method>
+  <thread>1</thread>
+  <message>Subscribe (Group) : I =&gt; 87</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809228</millis>
+  <sequence>17</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$null$10</method>
+  <thread>1</thread>
+  <message>Subscribe (Group) : P =&gt; 88</message>
+</record>
+<record>
+  <date>2021-06-25T12:43:29</date>
+  <millis>1624617809229</millis>
+  <sequence>18</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$null$10</method>
+  <thread>1</thread>
+  <message>Subscribe (Group) : I =&gt; 81</message>
+</record>
+</log>

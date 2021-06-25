@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-24T15:58:38</date>
+  <millis>1624543118284</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>a</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:38</date>
+  <millis>1624543118831</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>ab</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:39</date>
+  <millis>1624543119331</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abc</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:39</date>
+  <millis>1624543119832</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcd</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:40</date>
+  <millis>1624543120332</millis>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcde</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:40</date>
+  <millis>1624543120832</millis>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcdef</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:41</date>
+  <millis>1624543121333</millis>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>lambda$ObservableDemo1$0</method>
+  <thread>1</thread>
+  <message>abcdefg</message>
+</record>
+<record>
+  <date>2021-06-24T15:58:41</date>
+  <millis>1624543121333</millis>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>mc.apps.Main</class>
+  <method>ObservableDemo1</method>
+  <thread>1</thread>
+  <message>result = abcdefg_Completed</message>
+</record>
+</log>
